@@ -37,6 +37,7 @@ The dataset comes from the Fitbit Fitness Tracker Data shared on Kaggle by Mobiu
 
 ## Visualizations
 
+![Bellabeat Tableau Dashboard](bellabeat_dashboard.png)
 A Tableau dashboard was created with two visualizations:
 
 * Daily Steps Over Time
